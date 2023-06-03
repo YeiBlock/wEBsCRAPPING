@@ -1,0 +1,7 @@
+beautifulsoup4==4.9.3
+
+reportlab==3.5.68
+
+requests==2.25.1
+
+streamlit==0.84.2
